@@ -1,6 +1,6 @@
 # Pages
-* [Top 19 things beginning Bahai developers might say.md]
-* [The Eternal Faith of God Version 9.md]
+* [[Top 19 things beginning Bahai developers might say.md]]
+* [[The Eternal Faith of God Version 9.md]]
 
 # Other:
 
