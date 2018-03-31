@@ -10,7 +10,7 @@
     order..."
 5. It is impossible for us to have too many character references in
     our files
-6. "Does client-side transformation occur when teaching the Faith at the
+6. "Does client-side transformation occur when teaching the Faith in the
     workplace?"
 7. Thought that it was good to always try different methods, be
     assigned to new fields, and acquire new members, since the Universal
