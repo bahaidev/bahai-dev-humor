@@ -3,9 +3,9 @@ What follows is humor (or at least an attempt at it). It uses terminology used i
 Warmest regards...
 
 ----
-**Project title**: The Eternal Faith of God:
-**Version**: 9.0
-**Version title**: The Bahá'í Faith
+- **Project title**: The Eternal Faith of God:
+- **Version**: 9.0
+- **Version title**: The Bahá'í Faith
 
 ## New features:
 
@@ -29,7 +29,7 @@ Warmest regards...
 
 1. Smoking
 2. Eating meat
-    a) As an intermediate step, hunting is not to be done to excess and preferable not to eat meat, though users are, for this version, free in this regard
+    1. As an intermediate step, hunting is not to be done to excess and preferable not to eat meat, though users are, for this version, free in this regard
 
 ## Changes from previous release:
 
