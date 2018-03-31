@@ -1,4 +1,4 @@
-What follows is humor (or at least an attempt at it). It uses terminology used in computer software as if the Faith of God were to be written in such terms. Remember that "God loves laughter", and as this is intended respectfully, please do not take offense at the tongue-in-cheek comparison... Feel free to pass this along. (It is released into the public domain)
+What follows is humor (or at least an attempt at it). It uses terminology used in computer software as if the Faith of God were to be written in such terms. Remember that "God loves laughter", and as this is intended respectfully, please do not take offense at the tongue-in-cheek comparison... Feel free to pass this along. (It is released into the public domain or MIT, as you prefer.)
 
 Warmest regards...
 
@@ -29,7 +29,7 @@ Warmest regards...
 
 1. Smoking
 2. Eating meat
-    1. As an intermediate step, hunting is not to be done to excess and preferable not to eat meat, though users are, for this version, free in this regard
+    1. As an intermediate step, hunting is not to be done to excess and preferable not to eat meat, though users are, for this version, not constrained in this regard
 
 ## Changes from previous release:
 
@@ -47,11 +47,11 @@ Warmest regards...
 
 This is a contract entered into voluntarily by both parties and from which either party is free to withdraw its support at any time (though the Maintainer, Bahá'u'lláh, will never do so for those who uphold their side of the agreement).
 
-A. "The Greater Covenant"
+1. "The Greater Covenant"
     1. The current Maintainer, Bahá'u'lláh, agrees to return in a thousand or thousands of years to release a new major update, though it will likely be released under a new Name. Maintainer will provide spiritual credentials at such time to make it possible for user to identify Him, and agrees to undergo suffering for their sakes.
     2. The user agrees to prepare himself or herself and seek to recognize Him when He returns with His new release.
 
-B. "The Lesser Covenant"
+1. "The Lesser Covenant"
     1. Maintainer agrees to provide a clear succession of maintainers after His Ascension.
     2. User hereby agrees to adhere to the provisions provided by any of the maintainers.
 
