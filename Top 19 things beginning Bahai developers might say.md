@@ -18,7 +18,7 @@
 8. "But aren't we all service providers...?"
 9. "Aren't attributes and values basically the same thing?"
 10. "Are you sure we should be using the `sin()` function?"
-11. Thinks that inherited properties are especially for the eldest son
+11. Thinks that inherited properties are by default for the eldest son
     unless `Will()` is defined.
 12. Thinks closure is something that should come out of an Assembly
     meeting
